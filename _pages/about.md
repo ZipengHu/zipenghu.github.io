@@ -2,15 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Boya Fellow · KIAA, Peking University · 胡紫鹏
+subtitle: Boya Fellow · KIAA, Peking University
 
 profile:
   align: right
   image: selfpic.jpg
   image_circular: false
-  more_info: >
-    <p>Kavli Institute for Astronomy &amp; Astrophysics</p>
-    <p>Peking University, Beijing, China</p>
 
 selected_papers: true
 social: true
